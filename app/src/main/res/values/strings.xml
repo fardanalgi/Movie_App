@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="tvshow">TvShow</string>
+    <string name="nama">Nama</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="judul">Judul</string>
+    <string name="overview">Overview</string>
+    <string name="judul1">Judul</string>
+    <string name="language_setting">Language Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="toastfav">Successfully added to favorites</string>
+    <string name="toastFavFail">Failed to add to favorites</string>
+    <string name="toastDel">Successful delete</string>
+</resources>
